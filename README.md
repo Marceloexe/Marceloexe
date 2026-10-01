@@ -1,5 +1,4 @@
-<img width="1774" height="887" alt="ChatGPT Image 1 de out  de 2026, 13_20_54" src="https://github.com/user-attachments/assets/73958e38-8365-498b-a188-42ce4fab59c1" />
-## Hi there 👋
+<img width="1774" height="887" alt="ChatGPT Image 1 de out  de 2026, 13_20_54" src="https://github.com/user-attachments/assets/73958e38-8365-498b-a188-42ce4fab59c1" 
 
 <!--
 **Marceloexe/Marceloexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
